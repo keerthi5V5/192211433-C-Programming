@@ -2,8 +2,6 @@
 
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-
     int num1, num2;  
     float fraction;     
     char character;
@@ -21,8 +19,5 @@ int main()
     printf("\n\nEnter a Character\n");
     scanf("%c",&character);
     printf("\n\nThe character that you have entered is %c", character);
-
-    printf("\n\n\t\t\tCoding is Fun !\n\n\n");
-    
     return 0;
 }
